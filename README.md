@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyungjun%Kim&fontSize=90)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265)](https://solved.ac/khj3265)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=radical)
-
+<div align="right">
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265)](https://solved.ac/khj3265)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=radical)
+</div>
 
