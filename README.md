@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyungjun%Kim&fontSize=90)
 
+<div align="center">
+  hi
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+</div>
+
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265)](https://solved.ac/khj3265)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=radical)
 
