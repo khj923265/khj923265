@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=dracula" width="400">
 
-### 세번째 (취미?좋아하는거?)
-- 🏃 걷기
-- 📚 게임?
+### 좋아하는 것들
+- 🏃 걷는 걸 좋아합니다.
+- 💻 가끔씩 게임을 즐깁니다.
 
 
