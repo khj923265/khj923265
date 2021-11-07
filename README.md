@@ -20,10 +20,9 @@ Here are some ideas to get you started:
   <img width="50" height="25" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </div>
 <div align="right">
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265)](https://solved.ac/khj3265)
-</div>
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265)](https://solved.ac/khj3265)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=radical)
+</div>
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265)](https://solved.ac/khj3265)  
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=radical)
 
 
