@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🥇 🚅 🎓 💊 🌍 
 -->
 
 <!--
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyungjun%20Kim&fontSize=50)
 -->
 
-## 프로필 공사중 입니다.⚠️
+## 안녕하세요? 현재 프로필 공사중 입니다.⚠️
 
 ### 기술스택
 <div align="left">
@@ -34,29 +35,27 @@ Here are some ideas to get you started:
 
 ### 사용하는 것들
 <div align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a> &nbsp
 </div>
 
+#  
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265" width="300" height="130">
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265" width="400">
-
-### 첫번째
+### JAVA 웹 백엔드 개발자입니다.
 - 🌱 
-- 🥇 
-- 🚅 
+- 🌱
+- 🌱
 
-<!--
-### 두번째
-- 🎓 
-- 💊 
-- 🌍 
--->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=dracula" width="300" height="150">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=dracula" width="400">
 
 ### 좋아하는 것들
-- 🏃 걷는 걸 좋아합니다.
-- 💻 가끔씩 게임을 즐깁니다.
+- 🏃 걷는 걸 좋아합니다. ( 30분 ~ 1시간 거리도 노래들으며 자주 걷습니다 )
+- 💻 컴퓨터 만지는 걸 좋아합니다. ( 게임, 분해조립, 코딩, 웹서핑 모두!! )
 
 
