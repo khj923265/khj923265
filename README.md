@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-🥇 🚅 🎓 💊 🌍 
+🥇 🚅 🎓 💊 🌍 ⚠️
 -->
 
 <!--
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyungjun%20Kim&fontSize=50)
 -->
 
-## 안녕하세요? 현재 프로필 공사중 입니다.⚠️
+## 안녕하세요? 현재 프로필 공사중 입니다.🚧
 
 ### 기술스택
 <div align="left">
