@@ -49,13 +49,14 @@ Here are some ideas to get you started:
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265" width="300" height="130">
 
 ### 프로젝트
-- 프리랜서와 기업을 이어주는 매칭 서비스(TOY) [WOF-SPRING-PROJECT](https://github.com/khj923265/WOF-SPRING-PROJECT)
-- 의류 쇼핑몰 서비스(TOY) [jpa-study-project](https://github.com/khj923265/jpa-study-project)
-- 카카오 친구톡 발송/내역 API 연동
-- 국가생명윤리위원회-평가인증사무국 평가 통계 개발
+- 국가생명윤리위원회-평가인증사무국 유지보수(진행중)
+- 사내 출결관리 시스템 개발(진행중)
 - 국생원, 이대병원 서버취약점 점검 개선 작업
-- 사내 출결관리 시스템 개발
-- 국가생명윤리위원회-평가인증사무국 유지보수(ing)
+- 국가생명윤리위원회-평가인증사무국 평가 통계 개발
+- 카카오 친구톡 발송/내역 API 연동
+- 토이 프로젝트(TOY) [reassignment](https://github.com/khj923265/reassignment)
+- 의류 쇼핑몰 서비스(TOY) [jpa-study-project](https://github.com/khj923265/jpa-study-project)
+- 프리랜서와 기업을 이어주는 매칭 서비스(TOY) [WOF-SPRING-PROJECT](https://github.com/khj923265/WOF-SPRING-PROJECT)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=dracula" width="300" height="150">
 
