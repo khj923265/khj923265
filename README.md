@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-339933?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/gitlab-%23121011.svg?style=flat-square&logo=gitlab&logoColor=#FC6D26"/></a> &nbsp
   <!--
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white"/></a> &nbsp
   -->
@@ -49,14 +51,10 @@ Here are some ideas to get you started:
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265" width="300" height="130">
 
 ### 프로젝트
-- 국가생명윤리위원회-평가인증사무국 유지보수(진행중)
-- 사내 출결관리 시스템 개발(진행중)
-- 국생원, 이대병원 서버취약점 점검 개선 작업
-- 국가생명윤리위원회-평가인증사무국 평가 통계 개발
-- 카카오 친구톡 발송/내역 API 연동
-- 토이 프로젝트(TOY) [reassignment](https://github.com/khj923265/reassignment)
-- 의류 쇼핑몰 서비스(TOY) [jpa-study-project](https://github.com/khj923265/jpa-study-project)
-- 프리랜서와 기업을 이어주는 매칭 서비스(TOY) [WOF-SPRING-PROJECT](https://github.com/khj923265/WOF-SPRING-PROJECT)
+- KB 리서치 웹 개발
+- 인지편향 평가 사이트 개발
+- 국가생명윤리위원회-평가인증사무국 통계 개발 및 유지보수
+- 대학교 포털사이트 카카오 친구톡 발송/내역 API 연동
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=dracula" width="300" height="150">
 
