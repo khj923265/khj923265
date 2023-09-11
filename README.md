@@ -21,30 +21,37 @@ Here are some ideas to get you started:
 
 ## 안녕하세요. 저는 웹 개발자 김형준입니다.
 
-### 기술스택
 <div align="left">
+  <h3>기술 스택</h3>
   <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/SpringBoot-339933?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/></a> &nbsp
   <img src="https://img.shields.io/badge/Oracle-47A248?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a> &nbsp
+
+  <!--
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+  -->
 </div>
 
 ### 사용하는 것들
 <div align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/gitlab-%23121011.svg?style=flat-square&logo=gitlab&logoColor=#FC6D26"/></a> &nbsp
-  <!--
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white"/></a> &nbsp
-  -->
+  <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a> &nbsp
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a> &nbsp
 </div>
 
 #  
