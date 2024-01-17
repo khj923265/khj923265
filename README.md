@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 <div align="left">
   <h3>기술 스택</h3>
-  <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/SpringBoot-339933?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/></a> &nbsp
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/></a> &nbsp
   <img src="https://img.shields.io/badge/Oracle-47A248?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a> &nbsp
