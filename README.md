@@ -58,10 +58,11 @@ Here are some ideas to get you started:
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj3265" width="300" height="130">
 
 ### 프로젝트
-- KB 리서치 웹 개발
-- 내부 매칭 서비스 개발
-- 국가생명윤리위원회-평가인증사무국 통계 개발 및 유지보수
-- 대학교 포털사이트 카카오 친구톡 발송/내역 API 연동
+- KB리서치 웹 사이트 클라이언트/어드민 고도화 개발
+- MBTI 와 유사한 인지편향 평가 사이트 개발
+- 가게의 주문/결제를 편리하게 도와주는 키오스크 서비스 개발
+- 국가생명윤리위원회-평가인증사무국 생명윤리 평가 웹사이트 유지보수 & 통계 개발
+- UST 포털 사이트 고도화 개발
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=khj923265&show_icons=true&theme=dracula" width="300" height="150">
 
