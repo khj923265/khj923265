@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyungjun%20Kim&fontSize=50)
 -->
 
-## 안녕하세요. 저는 웹 개발자 김형준입니다.
+## 내가 만든 서비스를 편하게 사용하기를 바라는 개발자 김형준입니다.
 
 <div align="left">
   <h3>기술 스택</h3>
