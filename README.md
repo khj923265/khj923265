@@ -72,4 +72,6 @@ Here are some ideas to get you started:
 - 🏃 걷는 걸 좋아합니다. ( 30분 ~ 1시간 거리도 노래들으며 자주 걷습니다 )
 - 💻 컴퓨터 만지는 걸 좋아합니다. ( 게임, 분해조립, 코딩, 웹서핑 모두!! )
 
+#### 개인 이력서  
+https://www.rallit.com/resumes/245402@khj922356/%EA%B9%80%ED%98%95%EC%A4%80?theme=MINT_SORBET
 
